@@ -22,6 +22,7 @@ body {
 }
 ul {
   list-style: none;
+  padding-right: 30px;
 }
 li {
   font-size: 23px;
@@ -32,7 +33,6 @@ a {
   position: relative;
   text-decoration: none;
   color: white;
-  padding-right: 30px;
 }
 a::after {
   content: "";
